@@ -1,0 +1,27 @@
+body {
+  background-image: url("NOIP.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+div.cew {
+    color: blue;
+    
+}
+p.hhhh{
+    border-style: dotted;
+    border-width: 2px;
+    width: 50px;
+}
+a:link {
+    color: red;
+}
+a:visited {
+    color: red;
+}
+
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
